@@ -10,7 +10,7 @@ This project aims to develop a machine learning model that can identify and anal
 To get started with this project, clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/your-username/Senti_Anyls_2024.git
 ```
 
 ### Prerequisites
