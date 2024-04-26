@@ -1,7 +1,7 @@
 # Senti_Anlys_2024
 ML Project, 2nd year bachelors
 
-# Sentiment Analysis Model for Online Retail Platforms
+# Sentiment Analysis Model for Movie Reviews
 
 This project aims to develop a machine learning model that can identify and analyze customer sentiment on products available on different online retail platforms such as Amazon, Flipkart, and eBay. The model will use natural language processing techniques to classify customer reviews as positive, negative, or neutral.
 
